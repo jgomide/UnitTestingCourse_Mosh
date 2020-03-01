@@ -2,235 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b613b956-d289-41f7-8ac7-d21d5a32b67e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/TestNinja/v16/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/TestNinja/v16/Server/sqlite3/db.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/TestNinja/v16/Server/sqlite3/storage.ide" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/TestNinja/v16/TestStore/0/000-0000.testlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/TestNinja/v16/TestStore/0/testlog.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/TestNinja.UnitTests.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/EntityFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/EntityFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/NUnit3.TestAdapter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/NUnit3.TestAdapter.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/Newtonsoft.Json.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.UnitTests.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.UnitTests.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.dll.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/nunit.engine.api.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/nunit.engine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/nunit.framework.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/nunit_random_seed.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/packages.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/MSTest.TestAdapter.1.3.2.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/cs/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/cs/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/de/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/de/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/de/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/es/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/es/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/es/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/fr/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/fr/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/it/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/it/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/it/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/ja/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/ja/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/ko/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/ko/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/pl/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/pl/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/pt/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/pt/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/ru/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/ru/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/tr/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/tr/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/zh-Hans/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/zh-Hans/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/zh-Hant/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/zh-Hant/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/_common/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/net45/MSTest.TestAdapter.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/net45/MSTest.TestAdapter.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/netcoreapp1.0/MSTest.TestAdapter.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/netcoreapp1.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/uap10.0/MSTest.TestAdapter.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/uap10.0/MSTest.TestAdapter.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/uap10.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/MSTest.TestFramework.1.3.2.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/CHANGES.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/NOTICES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/NUnit.3.12.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/build/NUnit.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/net35/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/net35/nunit.framework.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/net35/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/net40/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/net40/nunit.framework.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/net40/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/net45/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/net45/nunit.framework.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/net45/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/netstandard1.4/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/netstandard1.4/nunit.framework.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/netstandard1.4/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/netstandard2.0/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/netstandard2.0/nunit.framework.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.12.0/lib/netstandard2.0/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/NUnit3TestAdapter.3.16.1.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/build/net35/NUnit3.TestAdapter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/build/net35/NUnit3.TestAdapter.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/build/net35/NUnit3TestAdapter.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/build/net35/nunit.engine.api.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/build/net35/nunit.engine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/build/netcoreapp2.1/NUnit3.TestAdapter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/build/netcoreapp2.1/NUnit3.TestAdapter.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/build/netcoreapp2.1/NUnit3TestAdapter.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/build/netcoreapp2.1/nunit.engine.api.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit3TestAdapter.3.16.1/build/netcoreapp2.1/nunit.engine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLogTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/TestNinja.UnitTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/TestNinja.UnitTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.UnitTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/TestNinja.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.pdb" afterDir="false" />
     </list>
@@ -238,6 +26,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="TestNinja" />
@@ -257,8 +59,13 @@
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DateHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLogTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -269,11 +76,8 @@
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Tests.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Class1.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" />
@@ -305,6 +109,10 @@
         <option value="$PROJECT_DIR$/TestNinja/Mocking/EmailSender.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/HouseKeeperServiceTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/HouseKeeperService.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLogTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" />
       </list>
     </option>
@@ -322,7 +130,13 @@
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
@@ -369,7 +183,7 @@
       <workItem from="1507227825406" duration="23277000" />
       <workItem from="1508952072060" duration="74000" />
       <workItem from="1582711511597" duration="283000" />
-      <workItem from="1582771795992" duration="56000" />
+      <workItem from="1582771795992" duration="12016000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
@@ -390,6 +204,95 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="229" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="186" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="186" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="188" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="186" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="188" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="113" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="186" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="188" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="128" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="186" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="188" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="144" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="186" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="188" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="144" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="147" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="186" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="188" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="122" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="186" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="188" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="125" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="186" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="187" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
@@ -412,13 +315,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="789" y="162" key="SettingsEditor" timestamp="1582771852045">
+    <state x="613" y="325" key="SettingsEditor" timestamp="1582778622667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="789" y="162" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582771852045" />
-    <state x="1565" y="162" width="672" height="678" key="search.everywhere.popup" timestamp="1582711671003">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="613" y="325" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582778622667" />
+    <state x="966" y="118" width="644" height="804" key="find.popup" timestamp="1582772070942">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="966" y="118" width="644" height="804" key="find.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582772070942" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1582782747242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582782747242" />
+    <state x="1174" y="162" width="672" height="678" key="search.everywhere.popup" timestamp="1582777590009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1174" y="162" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582777590009" />
     <state x="1565" y="162" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1582711671003" />
   </component>
 </project>
