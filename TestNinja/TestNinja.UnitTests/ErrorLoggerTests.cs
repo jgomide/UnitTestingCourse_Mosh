@@ -5,7 +5,7 @@ using TestNinja.Fundamentals;
 namespace TestNinja.UnitTests
 {
     [TestFixture]
-    public class ErrorLogTests
+    public class ErrorLoggerTests
     {
         [Test]
         public void Log_WhenCalled_SetTheLastErrorProperty()
@@ -26,14 +26,15 @@ namespace TestNinja.UnitTests
             var logger = new ErrorLogger();
 
             //logger.Log(error); CANT DO LIKE THAT WHEN IS EXCEPTION
-
-            Assert.That(() => //SAME SAME
+            
+            Assert.That(() => logger.Log(error), Throws.ArgumentNullException);
+            
+            /*Assert.That(() => //SAME SAME
             {
                 logger.Log(error);
-            }, Throws.ArgumentNullException);
-            //Assert.That(() => logger.Log(error), Throws.Exception.TypeOf<DivideByZeroException>); EXAMPLE 
+            }, Throws.ArgumentNullException);*/
         }
-
+        
         [Test]
         public void Log_ValidError_RaiseErrorLoggedEvent()
         {
