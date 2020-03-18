@@ -25,3 +25,11 @@ D:\learning_c#\UnitTestingCourse_Mosh\TestNinja\TestNinja.UnitTests\bin\Debug\nu
 D:\learning_c#\UnitTestingCourse_Mosh\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.dll
 D:\learning_c#\UnitTestingCourse_Mosh\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.pdb
 D:\learning_c#\UnitTestingCourse_Mosh\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.xml
+D:\learning_c#\UnitTestingCourse_Mosh\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.dll
+D:\learning_c#\UnitTestingCourse_Mosh\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.dll
+D:\learning_c#\UnitTestingCourse_Mosh\TestNinja\TestNinja.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\learning_c#\UnitTestingCourse_Mosh\TestNinja\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\learning_c#\UnitTestingCourse_Mosh\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.xml
+D:\learning_c#\UnitTestingCourse_Mosh\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.xml
+D:\learning_c#\UnitTestingCourse_Mosh\TestNinja\TestNinja.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\learning_c#\UnitTestingCourse_Mosh\TestNinja\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
